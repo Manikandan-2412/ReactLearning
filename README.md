@@ -289,5 +289,9 @@ All of the things are using the Key for mapping and faster duration
 Array Mapping
 filtering a different list
 
-
-
+State Management:
+Making component dynamic
+----------------
+Use state Hook
+Usestate Anatonmy  --> usestate for assigning something 
+    
