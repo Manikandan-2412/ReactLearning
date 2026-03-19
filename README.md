@@ -279,3 +279,15 @@ this is the normal operation
 Logical And:
 -----------
 && is used.
+
+================================================================================
+
+Looping & List 
+Rendering dynamic data:
+-----------------------
+All of the things are using the Key for mapping and faster duration
+Array Mapping
+filtering a different list
+
+
+
