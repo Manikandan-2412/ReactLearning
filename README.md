@@ -305,5 +305,19 @@ sharing state across component
 
 Context Best Practices:
 ----------------------
-splits context 
-    
+splits contexts by concern
+Don't use for frequently changing state 
+create custom hooks for contexts
+consider state management libraries for complex state.
+
+======================================================
+React router:
+navigation made easy
+------------
+    Why routing:
+         single page application spa's need 
+            multiple page without page reload
+            URL based navigation
+            browser back/forward support
+            sharable Url
+          
