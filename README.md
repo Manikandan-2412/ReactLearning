@@ -294,4 +294,16 @@ Making component dynamic
 ----------------
 Use state Hook
 Usestate Anatonmy  --> usestate for assigning something 
+
+Context API:
+sharing state across component
+-----------
+    In react there is a problem called prop drilling(nested components)
+
+    the solution is context.
+    useContext is provide by a react.
+
+Context Best Practices:
+----------------------
+splits context 
     
