@@ -320,4 +320,10 @@ navigation made easy
             URL based navigation
             browser back/forward support
             sharable Url
-          
+
+
+      Link prevent full page reload.
+===========================================================
+backend architecture and performance
+powered by advanced caching:
+------------------------------------
